@@ -1,3 +1,4 @@
+Promise.race_ = Promise.race
 Promise.race = undefined
 // /*/ // ⚡
 export const tests = []
